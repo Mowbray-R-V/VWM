@@ -1,8 +1,9 @@
 # VWM
 
 ##
-1. VM vs VWM ?
-2. VWM v WAM ?
+1VWM v WAM ?
+
+## World models definition
 
 ## Video generation model vs video world models
 1. A typical video generation model (Sora 2, Veo 3, Runway Gen-4, Kling, Pika) is trained to produce visually convincing video from a text or image prompt. Its objective is aesthetic and statistical: generate pixels that look like plausible video. Whether the physics underneath is actually correct is incidental — it only needs to appear correct for a few seconds.
