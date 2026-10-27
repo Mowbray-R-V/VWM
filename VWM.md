@@ -19,9 +19,10 @@
 6. **VWM:** NVIDIA Cosmos, DeepMind Genie 2/3, Wayve GAIA-2, V-JEPA 2, World Action Models
 
 ## Resources
-1. https://videoworldmodel-workshop.github.io/
-2. https://www.xunhuang.me/blogs/world_model.html
-3. **WM definition:** https://www.nvidia.com/en-in/glossary/world-models/
+1. **Awesome robotics world models:** https://github.com/irom-princeton/awesome-robotics-video-world-model-papers#-world-models
+2. https://videoworldmodel-workshop.github.io/
+3. https://www.xunhuang.me/blogs/world_model.html
+4. **WM definition:** https://www.nvidia.com/en-in/glossary/world-models/
 
 ## Benchmarks
 1. **Robotic bechmark:** https://artificialanalysis.ai/articles/aa-robotics
