@@ -1,7 +1,8 @@
 # VWM
 
-##
-1VWM v WAM ?
+## Questions
+1. VWM vs WAM ?
+2. Agentic world action models ?
 
 ## World models definition
 
