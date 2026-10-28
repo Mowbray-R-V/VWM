@@ -5,6 +5,7 @@
 2. Agentic world action models ?
 3. world models that generate simulators ?
 4. Video-Action Models ?
+5. Do you consider V-JEPA as world models ?
 
 ## World models definition
 
