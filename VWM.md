@@ -4,6 +4,7 @@
 1. VWM vs WAM ?
 2. Agentic world action models ?
 3. world models that generate simulators ?
+4. Video-Action Models ?
 
 ## World models definition
 
