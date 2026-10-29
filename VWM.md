@@ -27,6 +27,7 @@
 2. https://videoworldmodel-workshop.github.io/
 3. https://www.xunhuang.me/blogs/world_model.html
 4. **WM definition:** https://www.nvidia.com/en-in/glossary/world-models/
+5. https://github.com/irom-princeton/awesome-robotics-video-world-model-papers#-uncertainty-in-world-models
 
 ## Benchmarks
 1. **Robotic bechmark:** https://artificialanalysis.ai/articles/aa-robotics
